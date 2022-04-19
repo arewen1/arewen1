@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arewen1
+- 👀 I’m interested in programming, 3D modeling
+- 🌱 I’m currently learning fronte-end developer skills
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me arewenarewen@gmail.com
